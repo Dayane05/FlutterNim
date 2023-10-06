@@ -1,6 +1,5 @@
-# flutter_application_1
+# flutter_nim
 
-A new Flutter project.
 
 ## Getting Started
 
